@@ -27,7 +27,7 @@ class Employee{
     }
     double maxsal = findHighestSalary(salaries);
     System.out.print("The maximum salary is : "+maxsal);
-  sc.close();
+     sc.close();
 
 
   }
